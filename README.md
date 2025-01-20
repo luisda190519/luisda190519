@@ -3,7 +3,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://portafolio-luis-fuentes.netlify.app"/>https://portafolio-luis-fuentes.netlify.app</a>
+<a href="[https://portafolio-luis-fuentes.netlify.app](https://portfolio-luis-fuentes.netlify.app)"/>https://portafolio-luis-fuentes.netlify.app</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
